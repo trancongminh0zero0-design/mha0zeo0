@@ -1,0 +1,16 @@
+node_modules/
+build/
+dist/
+coverage/
+logs/
+.DS_Store
+*.log
+.env*
+!.env.example
+*.key.tmp
+.gemini.key.tmp
+data/gemini-keys.txt
+.cf-token.tmp
+cloudflared/config.yml
+cloudflared/*.json
+data/admin.json

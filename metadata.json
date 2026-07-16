@@ -1,0 +1,6 @@
+{
+  "name": "Tivi Shop",
+  "description": "Nền tảng web bán hàng liên kết (Affiliate Store) đạt chuẩn SEO, tối ưu tốc độ và tích hợp trợ lý mua sắm AI thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
